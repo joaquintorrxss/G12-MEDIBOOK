@@ -1,0 +1,5 @@
+
+bucket       = "bucket-s9iac"
+key          = "lab09/dev/terraform.tfstate"
+region       = "us-east-2"
+use_lockfile = true
